@@ -14,3 +14,7 @@ function QuestionsMarks(str) {
 
 QuestionsMarks(input1); // should return true
 QuestionsMarks(input2); // should return false
+
+
+
+// just adding a comment, that is my skill level with js atm lol
